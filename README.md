@@ -6,30 +6,31 @@ In this exercise, you’ll build a simple two-player `Tug-Of-War` game in Unity.
 
 ---
 
-## 📄 Overview
+## Overview
 
 - Two scenes are provided:
 
   1. **LOBBY Scene** – Where you look at summary, and jump into next game.
   2. **GAMEPLAY Scene** – The actual Tug-Of-War mechanics between two players.
 
-- Your tasks are broken into four parts:
+- Your tasks are broken into 3 parts:
 
   1. **GAMEPLAY logic** (Reference Image Provided)
   2. **Loading Screen**
   3. **Progress & State Restore Logic**
-  4. **Bonus: Dynamic Asset Loading**
 
-- Use **Unity Version**: 2020.3.xx LTS.
-- Ideally this entire exercise should take around 4-6 hours.
+- There are 2 bonus challenges as well which are optional.
+
+- Use **Unity Version**: 2022.3.xx LTS.
+- Ideally this entire exercise should take around 6-8 hours.
 
 ---
 
-## 📝 Submission Guidelines
+## Submission Guidelines
 
-1. Fork this repository.
-2. Share your repository link. OR
-   - raise a PR to this repo. OR
+1. Clone this repository.
+2. Complete assignment.
+3. Upload and share your repository link (preferred). OR
    - send a ZIP of the project (without libraries.)
 
 ---
@@ -91,7 +92,7 @@ NOTE:
 
 ---
 
-## 📝 Task 4: **Bonus** – Dynamic Asset Download & Instantiation
+## 📝 Task 4: **[BONUS Challenge]** – Dynamic Asset Download & Instantiation
 
 - Download a prefab from internet, and dynamically instantiate it on the screen.
 - You may use: Github Pages / firebase / s3 to host your file.
@@ -102,7 +103,7 @@ NOTE:
 ## NOTE:
 
 - This task is designed to assess your understanding of core Unity concepts. The primary focus should be on functionality and code quality.
-- You are encouraged to use any publicly available tutorials or resources for guidance, but the final code should be your own.
+- You are encouraged to use any publicly available tutorials or resources(image/code) for guidance, but the final code should be your own.
 - For any clarification - please reply to the email thread, or mail to `rahul@xarpie.com`.
 
 ---

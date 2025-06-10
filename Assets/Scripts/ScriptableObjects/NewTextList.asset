@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0e3fd9352a8b4e3091dc5f8d8721c36, type: 3}
+  m_Name: NewTextList
+  m_EditorClassIdentifier: 
+  texts:
+  - '"Tug of War is an ancient sport, with evidence of its practice found in ancient
+    Egypt, Greece, and China."'
+  - '"It was an Olympic sport from 1900 to 1920, with different countries competing
+    in various weight classes."'
+  - '"It''s a team sport where two teams pull on opposite ends of a rope, trying
+    to drag the other team a certain distance."'
+  - '"Competitors are generally not allowed to move their hands along the rope during
+    a pull; they must maintain their grip."'
+  - '"A central mark on the rope must cross a designated line on the ground to determine
+    the winner."'
